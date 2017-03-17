@@ -1,0 +1,3 @@
+//ignores files, anything that you put in there
+*.json
+*.xml
